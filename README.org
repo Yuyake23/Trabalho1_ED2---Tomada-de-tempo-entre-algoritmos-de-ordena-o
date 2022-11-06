@@ -1,0 +1,20 @@
+*  Trabalho 1 - Estrutura de Dados 2 
+
+- Implementar os seguintes métodos de ordenação:
+
+  1. InsertionSort;
+  2. ShellSort;
+  3. QuickSort;
+  4. HeapSort.
+
+- Criar um conjunto de 10 vetores de dados (dataset) com valores aleatórios, sendo que o tamanho de cada vetor é dado a seguir :
+  - Dataset: 1000 - 2000 – 3000 – 4000 – 5000 – 6000 – 7000 – 8000 – 9000 - 10000
+
+- Cada método de ordenação deve receber os 10 vetores como entrada (receber sempre os mesmos vetores) e devolver o vetor ordenado. Para cada execução tomar o tempo de execução (calcular a média de 50 execuções).
+
+- Entregar a implementação em uma pasta compactada, sendo que ela deve conter o relatório dos resultados e uma pasta do Projeto com os arquivos Java (o nome do projeto é Trabalho1_ED2). O projeto deverá conter 3 classes:
+    - Classe Ordena: contém as implementações dos algoritmos de ordenação;
+    - Classe Utilidades: contém a geração dos vetores, leitura e escrita de arquivos e demais utilidades;
+    - Classe TesteOrdena: realiza a tomada de tempo.
+
+- A atividade deverá ser feita individualmente e deverá ser entregue até o dia 31/10/2022. O relatório deve ser escrito em fonte ARIAL e tamanho 12, deve possuir um cabeçalho que identifique a disciplina, aluno, tomada de tempo (através de tabelas e gráficos) para cada vetor no dataset e uma conclusão dos resultados.
